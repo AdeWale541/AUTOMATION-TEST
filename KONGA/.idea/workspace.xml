@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2d28e89-51e2-46e2-9451-f087fc1e7f0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lufl5NZ3kzrIGUPxkLfPue4o3B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.BasePageTests.TestBasePage (1)">
+    <configuration name="ProcessFlowTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProcessFlowTest.ProcessFlowTest" />
+      <module name="KONGA" />
+      <option name="VM_PARAMETERS" value="-Dtestng.dtd.http=true" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProcessFlowTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasePageTests (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KONGA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasePageTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BasePageTests" />
+      <option name="MAIN_CLASS_NAME" value="BasePageTests.BasePageTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasePageTests" type="TestNG" nameIsGenerated="true">
+      <module name="KONGA" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasePageTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="BasePageTests" />
+      <option name="MAIN_CLASS_NAME" value="BasePageTests.BasePageTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasePageTests.TestBasePage (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KONGA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasePageTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BasePageTests" />
+      <option name="MAIN_CLASS_NAME" value="BasePageTests.BasePageTests" />
+      <option name="METHOD_NAME" value="TestBasePage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasePageTests.TestBasePage" type="TestNG" nameIsGenerated="true">
+      <module name="KONGA" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasePageTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="BasePageTests" />
+      <option name="MAIN_CLASS_NAME" value="BasePageTests.BasePageTests" />
+      <option name="METHOD_NAME" value="TestBasePage" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/USER/Desktop/Adewale_AKANO_LINUX/UIAUTOMATIONTASK/Page Object Model/KONGA/testng.xml" type="TestNG" nameIsGenerated="true">
+      <module name="KONGA" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTests (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KONGA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LoginPageTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LoginPageTests" />
+      <option name="MAIN_CLASS_NAME" value="LoginPageTests.LoginPageTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTests" type="TestNG" nameIsGenerated="true">
+      <module name="KONGA" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LoginPageTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="LoginPageTests" />
+      <option name="MAIN_CLASS_NAME" value="LoginPageTests.LoginPageTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignedinHomePageTests (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KONGA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SignedinHomePageTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SignedinHomePageTests" />
+      <option name="MAIN_CLASS_NAME" value="SignedinHomePageTests.SignedinHomePageTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignedinHomePageTests" type="TestNG" nameIsGenerated="true">
+      <module name="KONGA" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SignedinHomePageTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="SignedinHomePageTests" />
+      <option name="MAIN_CLASS_NAME" value="SignedinHomePageTests.SignedinHomePageTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignedinHomePageTests.TestVerifyAssertLoginPopup" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KONGA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SignedinHomePageTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SignedinHomePageTests" />
+      <option name="MAIN_CLASS_NAME" value="SignedinHomePageTests.SignedinHomePageTests" />
+      <option name="METHOD_NAME" value="TestVerifyAssertLoginPopup" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ProcessFlowTest" />
+      <item itemvalue="TestNG.BasePageTests" />
+      <item itemvalue="TestNG.BasePageTests.TestBasePage" />
+      <item itemvalue="TestNG.C:/Users/USER/Desktop/Adewale_AKANO_LINUX/UIAUTOMATIONTASK/Page Object Model/KONGA/testng.xml" />
+      <item itemvalue="TestNG.LoginPageTests" />
+      <item itemvalue="TestNG.SignedinHomePageTests" />
+      <item itemvalue="TestNG.BasePageTests.TestBasePage (1)" />
+      <item itemvalue="TestNG.SignedinHomePageTests.TestVerifyAssertLoginPopup" />
+      <item itemvalue="TestNG.SignedinHomePageTests (1)" />
+      <item itemvalue="TestNG.LoginPageTests (1)" />
+      <item itemvalue="TestNG.BasePageTests (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.BasePageTests.TestBasePage (1)" />
+        <item itemvalue="TestNG.SignedinHomePageTests (1)" />
+        <item itemvalue="TestNG.SignedinHomePageTests.TestVerifyAssertLoginPopup" />
+        <item itemvalue="TestNG.BasePageTests (1)" />
+        <item itemvalue="TestNG.LoginPageTests (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2d28e89-51e2-46e2-9451-f087fc1e7f0d" name="Default Changelist" comment="" />
+      <created>1608452046693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608452046693</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

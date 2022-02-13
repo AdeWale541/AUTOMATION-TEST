@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/USER/Desktop/Adewale_AKANO_LINUX/UIAUTOMATIONTASK/Page Object Model/KONGA">
+        <classes>
+            <class name="BasePageTests.BasePageTests">
+                <methods>
+                    <include name="TestBasePage"/>
+                </methods>
+            </class>
+            <class name="LoginPageTests.LoginPageTests">
+                <methods>
+                    <include name="TestLoginPageTitle"/>
+                    <include name="TestReturnLoginHomePage"/>
+                </methods>
+            </class>
+            <class name="SignedinHomePageTests.SignedinHomePageTests">
+                <methods>
+                    <include name="TestVerifyAssertLoginPopup"/>
+                    <include name="TestVerifyAssertPageURL"/>
+                    <include name="TestVerifyAssertname"/>
+                    <include name="TestVerifyGetPagetitle"/>
+                    <include name="TestVerifyAssertitems"/>
+                    <include name="TestVerifySuccessfullogout"/>
+                </methods></class></classes></test></suite>
+
